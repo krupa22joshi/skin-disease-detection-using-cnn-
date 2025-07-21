@@ -13,7 +13,7 @@ A deep learning model to classify skin diseases (melanoma, eczema, psoriasis, et
 - Handles **7 classes** of skin lesions
 - Data augmentation & class imbalance correction
 - **85%+ test accuracy**
-- Grad-CAM visualization for interpretability
+
 
 ## Installation
 1. Clone the repo:
